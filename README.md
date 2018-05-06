@@ -9,3 +9,5 @@ the effectiveness of our algorithms based off industry-standard metrics used wit
 
 We have included several photos of our graphs, which display our results along with our compiled datasets, and an Excel
 spreadsheet (hedgeResults&Discussion.xlsx) that displays our result statistics along with a discussion.
+
+Algorithms/algorithms-project/informedHedge_vs_sp500&iShares.png

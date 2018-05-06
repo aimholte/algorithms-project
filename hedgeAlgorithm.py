@@ -321,7 +321,7 @@ def plotComparisonsWithMarket(naiveReturns=None, informedReturns=None, naiveOpti
         plt.plot(range(2088), naiveOptimizedReturns[0:2088], label='Optimized Naive Hedge', linewidth = 0.35)
     if informedOptimizedReturns:
         plt.plot(range(2088), informedOptimizedReturns[0:2088], label='Optimized Informed Hedge', linewidth = 0.35)
-    plt.title('Hedge Algorithm Returns vs iShares Technology ETF & S&P 500 Returns, 2010-2018')
+    plt.title('Hedge Algorithm Returns Comparisons')
     legend = plt.legend(loc='upper right', shadow=True)
     plt.xlabel('Period')
     plt.ylabel('Total Returns')
